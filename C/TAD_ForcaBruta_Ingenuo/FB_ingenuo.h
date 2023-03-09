@@ -1,0 +1,1 @@
+int FB(char txt[], char p[]);
